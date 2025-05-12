@@ -1,0 +1,1 @@
+format = "$git_branch$directory[Akiha](red)\n\\$ "
