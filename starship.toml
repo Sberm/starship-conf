@@ -1,2 +1,8 @@
 # howard
-format = "$git_branch$directory[Akiha](red)\n\\$ "
+format = "$git_branch$directory[Akiha](167)\n\\$ "
+
+[git_branch]
+format = "[$symbol$branch](117) "
+
+[directory]
+format = "[$path](150)[$read_only](150) "
