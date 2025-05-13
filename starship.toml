@@ -5,4 +5,6 @@ format = "$git_branch$directory[Akiha](167)\n\\$ "
 format = "[$symbol$branch](117) "
 
 [directory]
+truncation_length = -1
+truncate_to_repo = false
 format = "[$path](150)[$read_only](150) "
